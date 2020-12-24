@@ -1,0 +1,12 @@
+.card {
+    max-width: 300px;
+    max-height: 200px; 
+    background-color:#2D142C;
+    padding: 2rem;
+    margin: 3rem;
+    border-radius: .5rem;
+}
+
+.card-text {
+    color: #EE4540;
+}
